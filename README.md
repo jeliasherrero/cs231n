@@ -18,6 +18,7 @@ In this assignment you will practice putting together a simple image classificat
     * understand the differences and tradeoffs between these classifiers
     * get a basic understanding of performance improvements from using higher-level representations than raw pixels (e.g. color histograms, Histogram of Gradient (HOG) features)
     
+-
   - Q1: k-Nearest Neighbor classifier (*pending*)
 The IPython Notebook knn.ipynb will walk you through implementing the kNN classifier.
 
