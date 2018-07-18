@@ -22,7 +22,7 @@ In this assignment you will practice putting together a simple image classificat
   - Q1: k-Nearest Neighbor classifier (***DONE***)
 The IPython Notebook knn.ipynb will walk you through implementing the kNN classifier.
 
-  - Q2: Training a Support Vector Machine (*pending*)
+  - Q2: Training a Support Vector Machine (***DONE***)
 The IPython Notebook svm.ipynb will walk you through implementing the SVM classifier.
 
   - Q3: Implement a Softmax classifier (*pending*)
