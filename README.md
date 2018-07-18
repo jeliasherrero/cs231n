@@ -25,7 +25,7 @@ The IPython Notebook knn.ipynb will walk you through implementing the kNN classi
   - Q2: Training a Support Vector Machine (***DONE***)
 The IPython Notebook svm.ipynb will walk you through implementing the SVM classifier.
 
-  - Q3: Implement a Softmax classifier (*pending*)
+  - Q3: Implement a Softmax classifier (***DONE***)
 The IPython Notebook softmax.ipynb will walk you through implementing the Softmax classifier.
 
   - Q4: Two-Layer Neural Network (*pending*)
